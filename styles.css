@@ -85,6 +85,7 @@ body {
 
 .descricao__texto {
     color: var(--cinza-secundario);
+    font-size: 32px;
 }
 
 .secundario__botao {

@@ -87,6 +87,10 @@ body {
     color: var(--cinza-secundario);
 
 }
+.descricao__titulo2{
+     font-size: 50px;
+     color: var(--cinza-secundario);
+}
 
 .secundario__botao {
     display: inline-block;
